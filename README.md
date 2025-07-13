@@ -11,6 +11,44 @@ Welcome to my curated collection of hands-on labs, experiments, and final projec
 - **Data Engineering** — Feature engineering, data cleaning, EDA
 - **Final Assessments** — Peer-graded and capstone notebooks from IBM, MIT, and others
 
+- ai-ml-projects-notebooks/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── Generative_AI/
+│   ├── Prompt_Engineering/
+│   ├── LangChain_Examples/
+│   ├── Conversational_Agents/
+│   └── Embeddings_VectorSearch/
+│
+├── Classical_ML/
+│   ├── Regression/
+│   ├── Classification/
+│   ├── Clustering/
+│   └── Model_Evaluation/
+│
+├── Deep_Learning/
+│   ├── PyTorch/
+│   ├── TensorFlow_Keras/
+│   └── Autoencoders/
+│
+├── NLP/
+│   ├── Tokenization/
+│   ├── Transformers/
+│   └── Text_Classification/
+│
+├── Data_Engineering/
+│   ├── Feature_Engineering/
+│   ├── Data_Cleaning/
+│   └── EDA/
+│
+└── Misc_Labs_and_Assessments/
+    ├── IBM_Final_Assessments/
+    ├── MIT_Experiments/
+    └── Temp_Uploads/
+
 ## 🛠️ Technologies
 
 - Python · PyTorch · TensorFlow · Keras · Scikit-learn · Pandas · NumPy  
